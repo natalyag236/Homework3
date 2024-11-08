@@ -9,7 +9,7 @@ public class Staff extends Person {
             super(name, id);
         }
        /**
-        * Constructs a new Staff member with the specified name and ID.
+        *  A class for a new Staff member with the specified name and ID.
         *
         * @param name the name of the staff member
         * @param id   the unique identifier (staff ID) for the staff member

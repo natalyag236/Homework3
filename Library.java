@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 /**
  * Class representing a library system.
- * Manages a collection of books, members, and staff, and provides methods
+ * Manages a collection of books, members, and staff, and  methods
  * to add books and members, and list all books, members, and staff in the library.
  */
 public class Library {

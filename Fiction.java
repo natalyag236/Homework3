@@ -8,11 +8,11 @@ public class Fiction extends Book {
         super(title, author, ISBN);
     }
     /** 
-    * Constructs a new Fiction book with the specified title, author, and ISBN.
+    * A class for a  Fiction book with the specified title, author, and ISBN.
     *
     * @param title  the title of the book
     * @param author the author of the book
-    * @param ISBN   the International Standard Book Number (ISBN) of the book
+    * @param ISBN   the ISBN of the book
     */
 
     

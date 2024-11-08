@@ -7,8 +7,7 @@ public abstract class Book {
     protected boolean is_checked_out;
 
     /**
-     * Constructs a new Book with the specified title, author, and ISBN.
-     * The book is initially marked as not checked out.
+     * Abstract class for  new Book with the specified title, author, and ISBN.
      *
      * @param title  the title of the book
      * @param author the author of the book

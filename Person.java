@@ -8,7 +8,7 @@ public abstract class Person {
     protected String id;
 
     /**
-     * Constructs a new Person with the specified name and ID.
+     *  A class for a  new Person with the specified name and ID.
      *
      * @param name the name of the person
      * @param id   the unique identifier for the person

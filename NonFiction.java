@@ -8,7 +8,7 @@ public class NonFiction extends Book {
         super(title, author, ISBN);
 
     /**
-     * Constructs a new Non-Fiction book with the specified title, author, and ISBN.
+     *  A class for a new Non-Fiction book with the specified title, author, and ISBN.
      *
      * @param title  the title of the book
      * @param author the author of the book

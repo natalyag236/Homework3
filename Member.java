@@ -8,7 +8,7 @@ public class Member extends Person{
         super(name, id);
 
     /**
-     * Constructs a new Member with the specified name and ID.
+     *  A class for a new Member with the specified name and ID.
      *
      * @param name the name of the member
      * @param id   the unique identifier (member ID) for the library member
